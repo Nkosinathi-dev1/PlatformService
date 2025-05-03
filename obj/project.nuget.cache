@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+zBOIkkKtM=",
+  "dgSpecHash": "g2E0lQqQtuU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nkosi\\OneDrive\\Documents\\microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\nkosi\\OneDrive\\Documents\\Cool-microservices-Project\\microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
